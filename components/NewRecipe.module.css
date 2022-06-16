@@ -1,0 +1,38 @@
+.recipeForm {
+  width: 40rem;
+  margin: 2rem auto;
+}
+
+.recipeForm input {
+  display: block;
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-bottom: 1.5rem;
+}
+
+.recipeForm input:focus {
+  outline: 0;
+}
+
+.recipeForm button {
+  background-color: #b20cec;
+  border: 1px solid #b20cec;
+  color: #ffffff;
+  padding: 0.8rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.recipeForm button:hover,
+.recipeForm button:active {
+  background-color: #cb6aed;
+  border: 1px solid #cb6aed;
+}

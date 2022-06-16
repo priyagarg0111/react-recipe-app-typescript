@@ -1,0 +1,16 @@
+.recipeItem {
+  margin: 1rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  background-color: #f9e8ff;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.removeIcon {
+  color: red;
+  cursor: pointer;
+  font-weight: bold;
+}

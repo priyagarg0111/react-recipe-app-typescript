@@ -1,3 +1,3 @@
 # react-add-recipe-app-typescript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-add-recipe-app-typescript)
+A recipe app to add new items in a list using typescript
